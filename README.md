@@ -27,7 +27,7 @@ the sandbox only give specific date of data
 
 this method need 4 params ({trans amount}, {recipient}, {first remark}, {second remark})
 
-transfer funds recipient 0201245681 for success,  0201245501 for closed account
+transfer funds recipient 0201245681 for a success transaction
 
 just set remarks on blanks if you don't want to input it
 
